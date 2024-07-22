@@ -1,4 +1,5 @@
 Klasorler oluşması için text.txt dosyası eklenmiştir, containerı ayağa kaldırmadan önce siliniz.
+
 Github üzerinden docker projemizi indiriyoruz.
 -    https://github.com/hkmsmart/Docker-SuiteCRM8-Compose
 
